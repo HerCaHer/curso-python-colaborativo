@@ -1,0 +1,22 @@
+x=5
+y=4
+print("suma",x+y)
+
+x = "Sally"
+X = 4
+print(x)
+print(X)
+
+
+x = str(3)    # x will be '3'
+y = int(3)    # y will be 3
+z = float(3)  # z will be 3.0
+
+print(x)
+print(y)
+print(z)
+
+print(type(X))
+print(type(x))
+print(type(y))
+print(type(z))
