@@ -1,0 +1,82 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Configuración local / variables de entorno
+# =========================
+.env
+*.env
+
+# =========================
+# Bases de datos
+# =========================
+*.db
+*.sqlite3
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Archivos de Spotlight y Trash
+.Spotlight-V100
+.Trashes
+
+# =========================
+# Windows
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de instalación de Windows
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# =========================
+# Archivos temporales
+# =========================
+*.tmp
+*.temp
+*.swp
