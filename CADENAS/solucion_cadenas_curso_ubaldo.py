@@ -25,3 +25,5 @@ print(f'Dominio del email normalizado: {dominio_email_normalizado}')
 # Creamos el email final
 email = f'{nombre_normalizado}{dominio_email_normalizado}'
 print(f'\nEmail final generado: {email}')
+
+#prueba de subir
